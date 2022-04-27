@@ -2,6 +2,6 @@ package com.lfh;
 
 public class helloword {
     public static void main(String[] args) {
-        System.out.println("hello Maven---");
+        System.out.println("hello Maven1---");
     }
 }
